@@ -3,3 +3,5 @@ senaidb_dryp_user
 :fv4jzONY5kYKQ2ZALgqG7St2lZYp4OBe
 @dpg-cuhumbbqf0us73dtcrv0-a.oregon-postgres.render.com
 /senaidb_dryp
+
+-- curl -X POST https://api.zerosheets.com/v1/yfr -H "Content-Type: application/json" -d '{"item":"Fabrício", "status":"Em Fila"}'
